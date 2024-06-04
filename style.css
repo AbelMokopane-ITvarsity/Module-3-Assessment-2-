@@ -28,7 +28,7 @@ body{
 /****************** HEADER *****************/
 
 .header{
-    
+    background-color: darkgoldenrod;
     width: 100%;
     height: 50px;
     top: 0;
@@ -44,9 +44,10 @@ body{
 }
 
 .header img{
-    width: 150px;
-    padding-top: 14px;
+    width: 80px;
+    padding-top: 0;
     padding-right: 25px;
+    padding-bottom: 50px;
 }
 
 /******************HOME PAGE*****************/
